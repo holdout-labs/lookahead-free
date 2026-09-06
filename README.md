@@ -5,6 +5,8 @@
 ![CI](https://github.com/holdout-labs/lookahead-free/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+> Featured in [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — the curated list of quant libraries (Factor Analysis section).
+
 ## 中文说明
 
 `lookahead-free` 用于检查量化数据流程是否使用了当时尚未公开的数据，

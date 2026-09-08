@@ -7,6 +7,10 @@
 
 > Featured in [awesome-quant](https://github.com/wilsonfreitas/awesome-quant) — the curated list of quant libraries (Factor Analysis section).
 
+> Part of [Holdout](https://github.com/holdout-labs): open-source infrastructure for AI-assisted quantitative research. This tool owns the timing-evidence layer before an agent or researcher moves a claim forward.
+
+> 属于 Holdout：AI 辅助量化投研的开源基础设施。本工具负责时序证据层，先确认没有偷看未来，再让 agent 或研究者继续推进结论。
+
 ## 中文说明
 
 `lookahead-free` 用于检查量化数据流程是否使用了当时尚未公开的数据，
